@@ -1,0 +1,7 @@
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.pdb
+C:\Users\dxfzl\OneDrive\Área de Trabalho\D3DCompiler_47_cor3.dll
+C:\Users\dxfzl\OneDrive\Área de Trabalho\PenImc_cor3.dll
+C:\Users\dxfzl\OneDrive\Área de Trabalho\PresentationNative_cor3.dll
+C:\Users\dxfzl\OneDrive\Área de Trabalho\vcruntime140_cor3.dll
+C:\Users\dxfzl\OneDrive\Área de Trabalho\wpfgfx_cor3.dll
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.exe

@@ -1,0 +1,6 @@
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.exe
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.dll
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.deps.json
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.runtimeconfig.json
+C:\Users\dxfzl\OneDrive\Área de Trabalho\LAS Sorteador.pdb
+C:\Users\dxfzl\OneDrive\Área de Trabalho\zu\LAS Sorteador.resources.dll

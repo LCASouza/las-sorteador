@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="drawButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="drawButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="drawButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 162</value>
+  </data>
+  <data name="drawButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 34</value>
+  </data>
+  <data name="drawButton.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="drawButton.Text" xml:space="preserve">
+    <value>SORTEAR</value>
+  </data>
+  <data name="&gt;&gt;drawButton.Name" xml:space="preserve">
+    <value>drawButton</value>
+  </data>
+  <data name="&gt;&gt;drawButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;drawButton.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;drawButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="drawNumber.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="drawNumber.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 48pt</value>
+  </data>
+  <data name="drawNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 6</value>
+  </data>
+  <data name="drawNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>353, 139</value>
+  </data>
+  <data name="drawNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="drawNumber.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="drawNumber.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;drawNumber.Name" xml:space="preserve">
+    <value>drawNumber</value>
+  </data>
+  <data name="&gt;&gt;drawNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;drawNumber.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;drawNumber.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="exitButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="exitButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="exitButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 229</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="exitButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 15, 0</value>
+  </data>
+  <data name="exitButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 31</value>
+  </data>
+  <data name="exitButton.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="exitButton.Text" xml:space="preserve">
+    <value>SAIR</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Name" xml:space="preserve">
+    <value>exitButton</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;exitButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="resetCounterButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="resetCounterButton.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="resetCounterButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="resetCounterButton.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="resetCounterButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resetCounterButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 226</value>
+  </data>
+  <data name="resetCounterButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>15, 3, 3, 3</value>
+  </data>
+  <data name="resetCounterButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 31</value>
+  </data>
+  <data name="resetCounterButton.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="resetCounterButton.Text" xml:space="preserve">
+    <value> Reiniciar</value>
+  </data>
+  <data name="resetCounterButton.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;resetCounterButton.Name" xml:space="preserve">
+    <value>resetCounterButton</value>
+  </data>
+  <data name="&gt;&gt;resetCounterButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;resetCounterButton.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;resetCounterButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>130, 210</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.MaxLength" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 47</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="numerosSorteadosArmazenadosTextBox.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;numerosSorteadosArmazenadosTextBox.Name" xml:space="preserve">
+    <value>numerosSorteadosArmazenadosTextBox</value>
+  </data>
+  <data name="&gt;&gt;numerosSorteadosArmazenadosTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numerosSorteadosArmazenadosTextBox.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;numerosSorteadosArmazenadosTextBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 77</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>608, 260</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="drawButton" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="drawNumber" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="exitButton" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="resetCounterButton" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="numerosSorteadosArmazenadosTextBox" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,20,Percent,60,Percent,20" /&gt;&lt;Rows Styles="Percent,72,72727,Percent,27,27273,Absolute,52" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="repeatNumbersButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="repeatNumbersButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="repeatNumbersButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="repeatNumbersButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 20</value>
+  </data>
+  <data name="repeatNumbersButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 21</value>
+  </data>
+  <data name="repeatNumbersButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="repeatNumbersButton.Text" xml:space="preserve">
+    <value>Repetir números</value>
+  </data>
+  <data name="&gt;&gt;repeatNumbersButton.Name" xml:space="preserve">
+    <value>repeatNumbersButton</value>
+  </data>
+  <data name="&gt;&gt;repeatNumbersButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;repeatNumbersButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;repeatNumbersButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="sortearLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="sortearLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="sortearLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="sortearLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>144, 49</value>
+  </data>
+  <data name="sortearLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 17</value>
+  </data>
+  <data name="sortearLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="sortearLabel.Text" xml:space="preserve">
+    <value>Sortear números entre:</value>
+  </data>
+  <data name="sortearLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;sortearLabel.Name" xml:space="preserve">
+    <value>sortearLabel</value>
+  </data>
+  <data name="&gt;&gt;sortearLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sortearLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;sortearLabel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="eLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="eLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="eLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="eLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>370, 49</value>
+  </data>
+  <data name="eLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>15, 17</value>
+  </data>
+  <data name="eLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="eLabel.Text" xml:space="preserve">
+    <value>e</value>
+  </data>
+  <data name="&gt;&gt;eLabel.Name" xml:space="preserve">
+    <value>eLabel</value>
+  </data>
+  <data name="&gt;&gt;eLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;eLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;eLabel.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>148, 20</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>51, 17</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.Text" xml:space="preserve">
+    <value>Sortear</value>
+  </data>
+  <data name="numeroDeSorteiosLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;numeroDeSorteiosLabel.Name" xml:space="preserve">
+    <value>numeroDeSorteiosLabel</value>
+  </data>
+  <data name="&gt;&gt;numeroDeSorteiosLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numeroDeSorteiosLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;numeroDeSorteiosLabel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="labelNumeros.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="labelNumeros.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelNumeros.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="labelNumeros.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelNumeros.Location" type="System.Drawing.Point, System.Drawing">
+    <value>254, 20</value>
+  </data>
+  <data name="labelNumeros.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 17</value>
+  </data>
+  <data name="labelNumeros.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="labelNumeros.Text" xml:space="preserve">
+    <value>número</value>
+  </data>
+  <data name="labelNumeros.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;labelNumeros.Name" xml:space="preserve">
+    <value>labelNumeros</value>
+  </data>
+  <data name="&gt;&gt;labelNumeros.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelNumeros.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelNumeros.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="initialNumberNumeric.Location" type="System.Drawing.Point, System.Drawing">
+    <value>290, 48</value>
+  </data>
+  <data name="initialNumberNumeric.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 23</value>
+  </data>
+  <data name="initialNumberNumeric.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="initialNumberNumeric.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;initialNumberNumeric.Name" xml:space="preserve">
+    <value>initialNumberNumeric</value>
+  </data>
+  <data name="&gt;&gt;initialNumberNumeric.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;initialNumberNumeric.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;initialNumberNumeric.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="finalNumberNumeric.Location" type="System.Drawing.Point, System.Drawing">
+    <value>391, 48</value>
+  </data>
+  <data name="finalNumberNumeric.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 23</value>
+  </data>
+  <data name="finalNumberNumeric.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="finalNumberNumeric.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;finalNumberNumeric.Name" xml:space="preserve">
+    <value>finalNumberNumeric</value>
+  </data>
+  <data name="&gt;&gt;finalNumberNumeric.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;finalNumberNumeric.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;finalNumberNumeric.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="numberOfDrawsNumeric.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 18</value>
+  </data>
+  <data name="numberOfDrawsNumeric.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 23</value>
+  </data>
+  <data name="numberOfDrawsNumeric.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="numberOfDrawsNumeric.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;numberOfDrawsNumeric.Name" xml:space="preserve">
+    <value>numberOfDrawsNumeric</value>
+  </data>
+  <data name="&gt;&gt;numberOfDrawsNumeric.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numberOfDrawsNumeric.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;numberOfDrawsNumeric.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>609, 349</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>LAS Sorteador</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Principal</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

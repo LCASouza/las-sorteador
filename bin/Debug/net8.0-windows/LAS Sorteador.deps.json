@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LAS Sorteador/1.0.0": {
+        "runtime": {
+          "LAS Sorteador.dll": {}
+        },
+        "resources": {
+          "zu/LAS Sorteador.resources.dll": {
+            "locale": "zu"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAS Sorteador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

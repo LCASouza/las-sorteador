@@ -1,0 +1,21 @@
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\bin\Release\net8.0-windows\LAS Sorteador.exe
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\bin\Release\net8.0-windows\LAS Sorteador.deps.json
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\bin\Release\net8.0-windows\LAS Sorteador.runtimeconfig.json
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\bin\Release\net8.0-windows\LAS Sorteador.dll
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\bin\Release\net8.0-windows\LAS Sorteador.pdb
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\bin\Release\net8.0-windows\zu\LAS Sorteador.resources.dll
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS_Sorteador.MeuMsgBox.resources
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS_Sorteador.Principal.resources
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS_Sorteador.Principal.zu.resources
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.csproj.GenerateResource.cache
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.AssemblyInfoInputs.cache
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.AssemblyInfo.cs
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.csproj.CoreCompileInputs.cache
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\zu\LAS Sorteador.resources.dll
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.dll
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\refint\LAS Sorteador.dll
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.pdb
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS Sorteador.genruntimeconfig.cache
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\ref\LAS Sorteador.dll
+C:\Users\dxfzl\OneDrive\Documentos\Desenvolvimento\C#\LAS Sorteador\obj\Release\net8.0-windows\LAS_Sorteador.Properties.Resources.resources
